@@ -1,13 +1,23 @@
 /* index CSS */
-
+<html>
+<head>
+<body>
+<style type="text/css">
 h1 {
 	font-family: Arial, Sans-serif;
 	font-size: 100px;
-	color: #000000;
+	font-style: normal;
+	font-variant: normal;
+	color: black;
 }
 
 p{
 	font-family: cursive;
 	font-size: 60px;
-	color: #FFCCFF;
+	font-style: normal;
+	font-variant: normal;
+	color: #ffccd4;
 }
+</style>
+</body>
+</html>
