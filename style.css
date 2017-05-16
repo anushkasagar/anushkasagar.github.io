@@ -3,6 +3,10 @@
 <head>
 <body>
 <style type="text/css">
+h1{
+	text-align: center;
+
+}
 h1 {
 	
 	font-family: Arial, Sans-serif;
@@ -10,9 +14,10 @@ h1 {
 	font-style: normal;
 	font-variant: normal;
 	color: #4d4d4d;
+}
+p{
 	text-align: center;
 }
-
 p{
 	
 	font-family: cursive;
@@ -20,7 +25,7 @@ p{
 	font-style: normal;
 	font-variant: normal;
 	color: #ffccd4;
-	text-align: center;
+	
 }
 </style>
 </body>
