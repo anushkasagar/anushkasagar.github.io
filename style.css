@@ -4,21 +4,23 @@
 <body>
 <style type="text/css">
 h1 {
-	text-align: center;
+	
 	font-family: Arial, Sans-serif;
 	font-size: 50px;
 	font-style: normal;
 	font-variant: normal;
 	color: #4d4d4d;
+	text-align: center;
 }
 
 p{
-	text-align: center;
+	
 	font-family: cursive;
 	font-size: 30px;
 	font-style: normal;
 	font-variant: normal;
 	color: #ffccd4;
+	text-align: center;
 }
 </style>
 </body>
