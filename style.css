@@ -2,24 +2,32 @@
 <head>
 <body>
 <style type="text/css">
-h1{
-	text-align: center;
 
+
+html, body, div, h1, p{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	font-size: 100%;
+	font: arial;
 }
+
+
+
+
 h1 {
 	
-	font-family: Arial, Sans-serif;
+	font-family: arial, Sans-serif;
 	font-size: 50px;
 	font-style: normal;
 	font-variant: normal;
 	color: #4d4d4d;
 }
-p{
-	/*text-align: center;*/
-}
+
 p{
 	
-	font-family: cursive;
+	font: cursive;
 	font-size: 30px;
 	font-style: normal;
 	font-variant: normal;
