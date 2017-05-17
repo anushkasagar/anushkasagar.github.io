@@ -2,6 +2,7 @@ Escape Velocity by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+This website was made by Anushka Sagar courtesy of the use of the HTML5 template, Escape Velocity. All credits are given below.
 
 Credits:
 
