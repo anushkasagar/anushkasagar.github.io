@@ -2641,7 +2641,8 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			/*background-color: #21b2a6;*/
+			background-color: #4f7192;
 			color: #c7ebe8;
 		}
 
@@ -2799,7 +2800,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #2e3842;
 			color: #d3d4e4;
 		}
 
