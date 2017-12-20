@@ -2029,17 +2029,17 @@
 					padding-right: 0 !important;
 				}
 
-			ul.mediaIcons.major {
+			ul.icons.major {
 				padding: 1em 0;
 			}
 
-				ul.mediaIcons.major li {
+				ul.icons.major li {
 					padding-right: 3.5em;
 				}
 
 					@media screen and (max-width: 736px) {
 
-						ul.mediaIcons.major li {
+						ul.icons.major li {
 							padding: 0 1em !important;
 						}
 
