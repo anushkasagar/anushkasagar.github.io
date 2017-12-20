@@ -2020,26 +2020,26 @@
 			padding-left: 0;
 		}
 
-			ul.icons li {
+			ul.mediaIcons li {
 				display: inline-block;
-				padding: 0 3em 0 0;
+				padding: 0 1em 0 0;
 			}
 
-				ul.icons li:last-child {
+				ul.mediaIcons li:last-child {
 					padding-right: 0 !important;
 				}
 
-			ul.icons.major {
+			ul.mediaIcons.major {
 				padding: 1em 0;
 			}
 
-				ul.icons.major li {
+				ul.mediaIcons.major li {
 					padding-right: 3.5em;
 				}
 
 					@media screen and (max-width: 736px) {
 
-						ul.icons.major li {
+						ul.mediaIcons.major li {
 							padding: 0 1em !important;
 						}
 
